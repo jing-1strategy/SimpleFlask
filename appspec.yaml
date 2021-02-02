@@ -6,5 +6,5 @@ Resources:
       Properties:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
-          ContainerName: "simpleflask-container"
+          ContainerName: "simpleflask-bluegreen-container"
           ContainerPort: 5000
